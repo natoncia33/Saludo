@@ -1,0 +1,7 @@
+app_default:
+    resource: '@AppBundle/Resources/config/routing/default.yml'
+    prefix: /
+
+app_persona:
+    resource: '@AppBundle/Resources/config/routing/saludo.yml'
+    prefix: /

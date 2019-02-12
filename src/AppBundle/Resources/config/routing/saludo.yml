@@ -1,0 +1,4 @@
+persona_saludo:
+    path: /saludo
+    defaults: { _controller: 'AppBundle:Saludo:saludo'}
+    methods: GET
